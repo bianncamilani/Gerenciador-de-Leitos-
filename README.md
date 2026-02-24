@@ -1,4 +1,4 @@
-Sistema de Gerenciamento de Leitos
+# Sistema de Gerenciamento de Leitos
 
 Descrição:
 Este projeto é um sistema simples em Java para gerenciamento de leitos hospitalares.
