@@ -25,7 +25,7 @@ Estrutura do projeto:
 
 Como executar:
 - Clone o repositório:
-- git clone 
+- git clone https://github.com/bianncamilani/Gerenciador-de-Leitos-.git
 - Abra o projeto em sua IDE (Eclipse, IntelliJ ou VS Code).
 - Compile e execute a classe Main.java.
 - Use o menu interativo para gerenciar os leitos.
